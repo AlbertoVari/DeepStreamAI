@@ -1,7 +1,9 @@
 # DeepStreamAI
 Application for NVIDIA DeepStream SDK to rapidly develop and deploy Vision AI on Jetson NANO
 
-Running the code directly on Jetson Nano hardwre becuase video layer doesn't run remotly with SSH access
+https://developer.nvidia.com/deepstream-sdk
+
+Running the code directly on Jetson Nano hardwre becuase video layer doesn't run remotely with SSH access
 
 # List attached devices
 $ v4l2-ctl --list-devices
